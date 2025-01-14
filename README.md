@@ -24,7 +24,7 @@ Where to find me:
 <ul>
   <li>To-Do
     <ul>
-      <li>Weby predelt html - DONE</li>
+      <li>Weby predelat html - DONE</li>
       <li>Python server projekt</li>
       <li>Barcode projekt</li>
       <li>Pecha kucha</li>
