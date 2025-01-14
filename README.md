@@ -16,3 +16,18 @@ Where to find me:
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stepanblaha&show_icons=true&locale=en" alt="stepanblaha" /></p>
+
+
+
+
+
+<ul>
+  <li>To-Do
+    <ul>
+      <li>Weby predelt html - DONE</li>
+      <li>Python server projekt</li>
+      <li>Barcode projekt</li>
+      <li>Pecha kucha</li>
+    </ul>
+  </li>
+</ul>
