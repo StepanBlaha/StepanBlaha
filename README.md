@@ -1,8 +1,8 @@
 # Hi👋! I´m Stepan
 
 
-I´m currently student at SPŠ Prosek who is passionate about making cool projects. I like working with PHP, Javascript, Python, Mysql and Html
-I aspire  one day be a great software engineer and make technology that inspires and elevates people
+I´m a student at SPŠ Prosek who is passionate about making cool projects. I like working with PHP, Javascript, Python, Mysql and Html
+I aspire to one day be a great software engineer and make technology that inspires and elevates people
 
 Where to find me:
 <p align="left">
